@@ -1,3 +1,29 @@
+## What is infinite scrolling
+
+✅ Infinite Scroll
+
+What it is: A design pattern where more content is loaded automatically as the user scrolls toward the bottom of the page.
+
+Use case: Social media feeds, product listings, blogs — where users continuously explore more data without clicking a "Next" button.
+
+How it works:
+
+User scrolls near the bottom.
+
+A request is made to fetch more data.
+
+New data is appended to the existing content.
+
+Key points:
+
+User experience feels seamless.
+
+Keeps loading new content on demand.
+
+Can lead to performance issues if not optimized.
+
+---
+
 ## NOTE:-
 
 ## ✅ window.scrollY:-
