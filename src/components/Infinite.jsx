@@ -21,7 +21,7 @@ const Infinite = () => {
           getData().finally(() => {
             isFetching = false;
           });
-        }, 300);
+        }, 200);
       }
     }
   }
